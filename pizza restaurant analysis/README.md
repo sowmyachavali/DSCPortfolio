@@ -1,4 +1,4 @@
-#### pizza restaurants analysis
+#### Pizza restaurants analysis
 Pizza! It’s one of America’s most beloved dishes, eaten anywhere, anytime, and by everyone. The objective of this project is to find excellent pizza based on the location, review and price, and finally build a pizza-map focused on New York, which is known as the “Pizza Capital of the U.S.”
 
 I am using the data sources from Jared, Barstool, and Datafiniti. Jared’s data is from top NY pizza restaurants, with a 6-point Likert scale survey on ratings. The Barstool sports dataset has critic, public, and the Barstool Staff’s rating as well as pricing, location, and geo-location. Datafiniti includes 10000 pizza places, their price ranges and geo-locations.
