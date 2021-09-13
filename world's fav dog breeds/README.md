@@ -1,1 +1,1 @@
-This project determines world's popular dog breeds based on multiple factors.
+This project determines world's popular dog breeds based on multiple features.
